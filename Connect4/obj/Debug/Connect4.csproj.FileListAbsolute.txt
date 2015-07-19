@@ -1,0 +1,9 @@
+C:\Users\Crimsix\Documents\sources\C#\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Crimsix\Documents\sources\C#\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Crimsix\Documents\sources\C#\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Crimsix\Documents\sources\C#\Connect4\Connect4\obj\Debug\Connect4.csprojResolveAssemblyReference.cache
+C:\Users\Crimsix\Documents\sources\C#\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Crimsix\Documents\sources\C#\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\Crimsix\Google Drive\sources\C#\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Crimsix\Google Drive\sources\C#\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Crimsix\Google Drive\sources\C#\Connect4\Connect4\obj\Debug\Connect4.pdb
